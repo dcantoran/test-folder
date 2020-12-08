@@ -1,2 +1,7 @@
 images/
 passwords.env
+testing.env
+# if I want to specifically ignore a file 
+# images/cars/** will ignore the 'cars' file
+
+# *.js will ignore all .js files
